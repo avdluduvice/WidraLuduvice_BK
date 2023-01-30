@@ -30,15 +30,15 @@ Widra, Rachel and Luduvice, André Victor D. . 2021. "Boomerang Kids in the Pand
 
 All data are publicly available.
 
-- This paper uses data extracted from IPUMS BLS CPS. Data can be accessed from the folder and link provided (below) or directly from cps.ipums.org. The extract can be recreated using the selections described in cps_00026.cbk. Any use of these data should be cited as follows:
+- This paper uses data extracted from IPUMS BLS CPS. Data can be accessed from the folder and link provided (below) or directly from cps.ipums.org. The extract can be recreated using the selections described in cps_00026.cbk.
 
-  - Sarah Flood, Miriam King, Renae Rodgers, Steven Ruggles, J. Robert Warren and Michael Westberry. Integrated Public Use Microdata Series, Current Population Survey: Version 10.0 [dataset]. Minneapolis, MN: IPUMS, 2022. https://doi.org/10.18128/D030.V10.0
-Note: the data files provided in the Data folder as boomerang_kids_data.xml, cps_00026.cbk, cps_00026.dat.gz
+  - Any use of these data should be cited as follows: Sarah Flood, Miriam King, Renae Rodgers, Steven Ruggles, J. Robert Warren and Michael Westberry. Integrated Public Use Microdata Series, Current Population Survey: Version 10.0 [dataset]. Minneapolis, MN: IPUMS, 2022. https://doi.org/10.18128/D030.V10.0
+Note: the data files provided in the Data folder as boomerang_kids_data.xml, cps_00026.cbk and in the Dropbox folder as cps_00026.dat.gz
+
+  - `cps_00026.dat.gz`: IPUMS BLS CPS zipped file with the extracted data to be read using the xml file. Data can be directly downloaded from the following Dropbox link https://www.dropbox.com/s/il7idpgqack5sck/cps_00026.dat.gz?dl=0.
 
   - The attached data files are shared with permission, and intended only for replication purposes; please access the data directly via IPUMS for all other applications. Individuals are not to redistribute the data without permission. Contact ipums@umn.edu for redistribution requests.
   
-  - `cps_00026.dat.gz`: IPUMS BLS CPS zipped file with the extracted data to be read using the xml file. Data can be directly downloaded from the following Dropbox link https://www.dropbox.com/s/il7idpgqack5sck/cps_00026.dat.gz?dl=0.
-
  - This paper uses raw data from the O\*NET Resource Center. The raw data are the mapping between O\*NET-SOC codes and Work Context and Activities ratings. Data can be freely downloaded from https://www.onetcenter.org/dictionary/25.0/excel/work_context.html and https://www.onetcenter.org/dictionary/25.0/excel/work_activities.html. Note: the O*NET Work Activities data is not provided. Save the file in the directory as /Data/onet_work_context.xlsx.
 
 - This paper uses raw data from the U.S. Census Bureau Occupation Code List. The raw data is the 2018 occupation code list and crosswalk. Data can be freely downloaded from https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-occupation-code-list-and-crosswalk.xlsx. Note: the raw data file is provided in the Data folder as `2018-occupation-code-list-and-crosswalk.xlsx`.
