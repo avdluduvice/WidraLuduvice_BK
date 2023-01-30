@@ -30,7 +30,7 @@ Widra, Rachel and Luduvice, André Victor D. . 2021. "Boomerang Kids in the Pand
 
 All data are publicly available.
 
-- This paper uses data extracted from IPUMS BLS CPS. Data can be accessed from the folder and link provided (below) or directly from cps.ipums.org. The extract can be recreated using the selections described in cps_00026.cbk.
+- This paper uses data extracted from IPUMS BLS CPS. Data can be accessed from the folder and link provided (below) or directly from cps.ipums.org. The extract can be recreated using the selections described in `cps_00026.cbk`.
 
   - Any use of these data should be cited as follows: Sarah Flood, Miriam King, Renae Rodgers, Steven Ruggles, J. Robert Warren and Michael Westberry. Integrated Public Use Microdata Series, Current Population Survey: Version 10.0 [dataset]. Minneapolis, MN: IPUMS, 2022. https://doi.org/10.18128/D030.V10.0
 Note: the data files provided in the Data folder as boomerang_kids_data.xml, cps_00026.cbk and in the Dropbox folder as cps_00026.dat.gz
