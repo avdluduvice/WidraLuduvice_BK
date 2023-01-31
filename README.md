@@ -20,7 +20,6 @@ Widra, Rachel and Luduvice, André Victor D. . 2021. "Boomerang Kids in the Pand
   - `boomerang_kids_data.xml`: IPUMS BLS CPS xml file to be read using the IPUMS R package
   - `cps_00026.cbk`:  Codebook description of variables selected to create the IPUMS BLS CPS extract
   - `onet_work_activities.xlsx`: O\*NET excel spreadsheet with work activities ratings
-  - `onet_work_context.xlsx`: O\*NET excel spreadsheet with work context ratings
 
 - Scripts:
   - ``boomerang_kids_code.R``: script to generate Figures 1 to 4 and Tables 1 and 2 of the main text
