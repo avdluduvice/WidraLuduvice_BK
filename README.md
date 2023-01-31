@@ -44,8 +44,8 @@ Note: the data files provided in the Data folder as boomerang_kids_data.xml, cps
 
 ## References
 
-Beland, L.-P., Brodeur, A., Mikola, D. and Wright, T. (2022), The short-term economic consequences of COVID-19: Occupation tasks and mental health in Canada. Canadian Journal of Economics/Revue canadienne d'économique, 55: 214-247. https://doi.org/10.1111/caje.12543   
-"Work Context - O\*NET 25.0 Data Dictionary" by the National Center for O\*NET Development. Used under the CC BY 4.0 license.   
+Beland, L.-P., Brodeur, A., Mikola, D. and Wright, T. (2022), The short-term economic consequences of COVID-19: Occupation tasks and mental health in Canada. Canadian Journal of Economics/Revue canadienne d'économique, 55: 214-247. https://doi.org/10.1111/caje.12543    
+"Work Context - O\*NET 25.0 Data Dictionary" by the National Center for O\*NET Development. Used under the CC BY 4.0 license.     
 "Work Activities - O\*NET 25.0 Data Dictionary" by the National Center for O\*NET Development. Used under the CC BY 4.0 license.
 
 ## License
