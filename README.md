@@ -34,7 +34,7 @@ All data are publicly available.
   - Any use of these data should be cited as follows: Sarah Flood, Miriam King, Renae Rodgers, Steven Ruggles, J. Robert Warren and Michael Westberry. Integrated Public Use Microdata Series, Current Population Survey: Version 10.0 [dataset]. Minneapolis, MN: IPUMS, 2022. https://doi.org/10.18128/D030.V10.0
 Note: the data files provided in the Data folder as boomerang_kids_data.xml, cps_00026.cbk and in the Dropbox folder as cps_00026.dat.gz
 
-  - `cps_00026.dat.gz`: IPUMS BLS CPS zipped file with the extracted data to be read using the xml file. Data can be directly downloaded from the following Dropbox link https://www.dropbox.com/s/il7idpgqack5sck/cps_00026.dat.gz?dl=0.
+  - `cps_00026.dat.gz`: IPUMS BLS CPS zipped file with the extracted data to be read using the xml file. Data can be directly downloaded from the following Dropbox link https://www.dropbox.com/sh/cdjzg6xzdvseatb/AADIcASk1v-0goBtuVLaKaGva?dl=0.
 
   - The attached data files are shared with permission, and intended only for replication purposes; please access the data directly via IPUMS for all other applications. Individuals are not to redistribute the data without permission. Contact ipums@umn.edu for redistribution requests.
   
