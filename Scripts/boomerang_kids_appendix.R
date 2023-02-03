@@ -39,7 +39,7 @@ color4 = "#581f54"   #maroon
 
 if (!require("ipumsr")) stop("Reading IPUMS data into R requires the ipumsr package. It can be installed using the following command: install.packages('ipumsr')")
 # read in cps data
-ddi <- read_ipums_ddi("boomerang_kids_data.xml")
+ddi <- read_ipums_ddi("../Data/boomerang_kids_data.xml")
 data <- as.data.table(read_ipums_micro(ddi))
 
 # create date variable
@@ -548,7 +548,7 @@ pandemic_ya_ordered[unemp_to_emp==1 & duration<26]
 
 ##### start risk index calculation #####
 # Online link: https://www2.census.gov/programs-surveys/demo/guidance/industry-occupation/2018-occupation-code-list-and-crosswalk.xlsx
-in_xwalk <- read_excel("2018-occupation-code-list-and-crosswalk.xlsx", sheet="2018 Census Occ Code List", skip = 4)
+in_xwalk <- read_excel("../Data/2018-occupation-code-list-and-crosswalk.xlsx", sheet="2018 Census Occ Code List", skip = 4)
 xwalk <- subset(in_xwalk,!is.na(`2018 Census Code`), select=2:4)
 colnames(xwalk) <- c("title", "OCC", "soc_code")
 
@@ -556,11 +556,11 @@ colnames(xwalk) <- c("title", "OCC", "soc_code")
 #### COVID Occupational Risk Exposure Index Replicated from Beland, Brodeur, and Wright ####
 # read in the onet work activities survey results
 # Online link: https://www.onetcenter.org/dictionary/25.0/excel/work_activities.html
-in_work_activities <- as.data.table(read_excel("onet_work_activities.xlsx"))
+in_work_activities <- as.data.table(read_excel("../Data/onet_work_activities.xlsx"))
 
 # read in the onet work context survey results
 # Online link: https://www.onetcenter.org/dictionary/25.0/excel/work_context.html
-in_work_context <- as.data.table(read_excel("onet_work_context.xlsx"))
+in_work_context <- as.data.table(read_excel("../Data/onet_work_context.xlsx"))
 
 
 # subset O*NET work context survey to just the two most relevant questions
